@@ -11,4 +11,5 @@
 №1.  
 ![](https://github.com/varvaravedeneeva/hw6/blob/master/СнимокModifiers.PNG)  
 №2.  
-
+![](https://github.com/varvaravedeneeva/hw6/blob/master/СнимокLikeLove.PNG)  
+![]()
