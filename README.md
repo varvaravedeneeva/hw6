@@ -9,4 +9,6 @@
 
 ### Часть 2. Sketch Engine  
 №1.  
-![](https://github.com/varvaravedeneeva/hw6/blob/master/СнимокModifiers.PNG)
+![](https://github.com/varvaravedeneeva/hw6/blob/master/СнимокModifiers.PNG)  
+№2.  
+
